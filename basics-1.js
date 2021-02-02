@@ -6,3 +6,4 @@ alert(`The number of characters you entered is ${name.length}`)
 const check = name.indexOf("l")
 
 console.log(check)
+console.log(name.slice(2,90))
